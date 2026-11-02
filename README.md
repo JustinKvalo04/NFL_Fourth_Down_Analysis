@@ -67,25 +67,25 @@ Fourth-down attempt rates for distances of 1–15 yards.
 
 ### 5. Conversion Success by Yards to Go
 
-![Fourth-down conversion rate by distance](project_outputs/conversion_success_by_distance.png)
+![Fourth-down conversion rate by distance](conversion_success_by_distance.png)
 
 Conversion rates among run/pass attempts, grouped by distance. Rates at longer distances may be based on smaller samples.
 
 ### 6. Attempt Rate by Field Position
 
-![Fourth-down attempt rates by field zone](project_outputs/field_position_analysis.png)
+![Fourth-down attempt rates by field zone](field_position_analysis.png)
 
 How often teams went for it in different areas of the field.
 
 ### 7. Distance and Field-Position Heatmap
 
-![Heatmap of fourth-down attempt rates by distance and field position](project_outputs/fourth_down_decision_heatmap.png)
+![Heatmap of fourth-down attempt rates by distance and field position](fourth_down_decision_heatmap.png)
 
 A combined view of yards to go and field zone. Each cell includes its number of opportunities (`n`).
 
 ### 8. Short-Yardage Aggressiveness by Team
 
-![Team fourth-down attempt rates on fourth-and-one or two](project_outputs/short_yardage_team_rankings.png)
+![Team fourth-down attempt rates on fourth-and-one or two](short_yardage_team_rankings.png)
 
 Team-level attempt rates on fourth-and-1 and fourth-and-2 opportunities.
 
